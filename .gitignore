@@ -11,3 +11,4 @@ data/easyocr_user_network/
 data/paddlex_cache/
 data/matplotlib_cache/
 data/xdg_cache/
+data/ir_database/
