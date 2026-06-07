@@ -1,0 +1,35 @@
+[
+  {
+    "filename": "1Q26_Naver_Earnings_KOR_vF.pdf",
+    "path": "data/raw/1Q26_Naver_Earnings_KOR_vF.pdf",
+    "downloaded": true,
+    "org": "NAVER",
+    "language": "ko",
+    "doc_type": "earnings_report",
+    "period": "2026 Q1",
+    "file_size_bytes": 229196,
+    "sha256": "3f97d56eb7e9f6f27c3dbdf117684d84b3edef0920373375f51eeabf3a0feeef"
+  },
+  {
+    "filename": "2026 1Q PT K_(최종).pdf",
+    "path": "data/raw/2026 1Q PT K_(최종).pdf",
+    "downloaded": true,
+    "org": "Kakao",
+    "language": "ko",
+    "doc_type": "earnings_presentation",
+    "period": "2026 Q1",
+    "file_size_bytes": 833326,
+    "sha256": "33b92721a66ba1d26423747e5f65edcf132616344c153b70f777a3f0737ef4ad"
+  },
+  {
+    "filename": "berkshirehathaway_26_first_quarter.pdf",
+    "path": "data/raw/berkshirehathaway_26_first_quarter.pdf",
+    "downloaded": true,
+    "org": "Berkshire Hathaway",
+    "language": "en",
+    "doc_type": "quarterly_report",
+    "period": "2026 Q1",
+    "file_size_bytes": 1240976,
+    "sha256": "f45f06196cfee13873b3dd3ee5fcc7d9e3148706b3ec7681f1fde12c72559a64"
+  }
+]
